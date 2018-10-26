@@ -1,5 +1,5 @@
 Bootstrap:docker
-From:ubuntu:testing
+From:ubuntu:xenial
 
 %labels
 
